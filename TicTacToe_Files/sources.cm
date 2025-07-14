@@ -1,0 +1,7 @@
+Group is
+$/basis.cm
+$/smlnj-lib.cm
+../src/sequence-uncurried/sources.cm
+../Additional_Files/dict.sig
+../Additional_Files/dict.sml
+final.sml
